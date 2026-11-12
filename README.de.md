@@ -1,7 +1,7 @@
 # Der Korridor — ein LLM-Agent mit positionsgebundenem Gedächtnis
-English version: [Der Korridor — an LLM agent with position-bound memory](https://github.com/MelanieM2/der-Korridor-info/README.de.md)
+English version: [Der Korridor — an LLM agent with position-bound memory](https://github.com/MelanieM2/der-korridor-info/README.de.md)
 > Technisches Rückgrat von *Der Korridor*, einem post-apokalyptischen Konzeptalbum mit einer begehbaren Begleitwebsite.
-> Das Code-Repository [Der-Korridor](https://github.com/MelanieM2/der-Korridor-info) ist privat, solange die Arbeit läuft; eine Veröffentlichung ist geplant.
+> Das Code-Repository [Der-Korridor](https://github.com/MelanieM2/Der-Korridor) ist privat, solange die Arbeit läuft; eine Veröffentlichung ist geplant.
 
 ## Die Idee
 
@@ -76,7 +76,7 @@ flowchart LR
 ### Kernteam
 - **Alexander Kesselring** — Texte, Musik und künstlerisches Konzept von *Der Korridor* (Geschichte und Figuren, einschließlich der *Schwellenwächterin*)
 - **Rupert Pessl** — Fotografie
-- **Melanie Maldonado** — Agentic-AI-Integration (der Code: [Der-Korridor](https://github.com/MelanieM2/der-Korridor-info))
+- **Melanie Maldonado** — Agentic-AI-Integration (der Code: [Der-Korridor](https://github.com/MelanieM2/Der-Korridor))
 
 ### Stimmen & Besetzung *(folgt in Kürze)*
 
