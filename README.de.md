@@ -1,7 +1,7 @@
 # Der Korridor — ein LLM-Agent mit positionsgebundenem Gedächtnis
-
+English version: [Der Korridor — an LLM agent with position-bound memory](https://github.com/MelanieM2/der-Korridor-info/README.de.md)
 > Technisches Rückgrat von *Der Korridor*, einem post-apokalyptischen Konzeptalbum mit einer begehbaren Begleitwebsite.
-> Das Repository ist privat, solange die Arbeit läuft; eine Veröffentlichung ist geplant.
+> Das Code-Repository [Der-Korridor](https://github.com/MelanieM2/der-Korridor-info) ist privat, solange die Arbeit läuft; eine Veröffentlichung ist geplant.
 
 ## Die Idee
 
@@ -44,7 +44,7 @@ flowchart LR
 
 - Selbsttests mit synthetischen Daten und nachgebauten Clients im Antwortformat des Anbieters; kein API-Schlüssel nötig.
 - Echte SDK-Klassen, getestet gegen einen nachgebauten Transport.
-- **Mutationstests:** mehrere hundert absichtlich eingebaute Fehler in elf Testreihen, jeder von seiner eigenen, spezifischen Meldung erkannt.
+- Mutationstests: mehrere hundert absichtlich eingebaute Fehler in elf Testreihen, jeder von seiner eigenen, spezifischen Meldung erkannt.
 - Kanarienvogel-Test und ausgewählte echte Läufe gegen ein laufendes Modell, weil manche Fehler nur dort sichtbar werden.
 - Statische Typprüfung mit Pyright.
 
@@ -76,11 +76,11 @@ flowchart LR
 ### Kernteam
 - **Alexander Kesselring** — Texte, Musik und künstlerisches Konzept von *Der Korridor* (Geschichte und Figuren, einschließlich der *Schwellenwächterin*)
 - **Rupert Pessl** — Fotografie
-- **Melanie Maldonado** — Agentic-AI-Integration (dieser Code)
+- **Melanie Maldonado** — Agentic-AI-Integration (der Code: [Der-Korridor](https://github.com/MelanieM2/der-Korridor-info))
 
 ### Stimmen & Besetzung *(folgt in Kürze)*
 
-Alle Rechte an den künstlerischen Werken – einschließlich Texten, Musik, Fotografien und Sprachaufnahmen – verbleiben als geistiges Eigentum bei den jeweiligen Urheber:innen und Mitwirkenden. Dieses Python-Projekt umfasst ausschließlich die technische Umsetzung. Das Repository enthält nur den Quellcode und keine Texte oder Audiodateien des Albums. Die interaktive Erzählung wird separat auf einer externen Plattform veröffentlicht; der Link wird hier ergänzt, sobald sie verfügbar ist.
+Alle Rechte an den künstlerischen Werken – einschließlich Texten, Musik, Fotografien und Sprachaufnahmen – verbleiben als geistiges Eigentum bei den jeweiligen Urheber:innen und Mitwirkenden. Dieses Python-Projekt umfasst ausschließlich die technische Umsetzung. Das Code-Repository enthält nur den Quellcode und keine Texte oder Audiodateien des Albums. Die interaktive Erzählung wird separat auf einer externen Plattform veröffentlicht; der Link wird hier ergänzt, sobald sie verfügbar ist.
 
 
 © 2026 **3000 Etagen tiefer** · Alexander Kesselring (Texte & Musik) · Rupert Pessl (Fotografie) · Melanie Maldonado (Code)
