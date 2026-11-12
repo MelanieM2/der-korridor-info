@@ -1,5 +1,5 @@
 # Der Korridor — ein LLM-Agent mit positionsgebundenem Gedächtnis
-English version: [Der Korridor — an LLM agent with position-bound memory](https://github.com/MelanieM2/der-korridor-info/blob/main/README.de.md)
+English version: [Der Korridor — an LLM agent with position-bound memory](https://github.com/MelanieM2/der-korridor-info/blob/main/README.md)
 > Technisches Rückgrat von *Der Korridor*, einem post-apokalyptischen Konzeptalbum mit einer begehbaren Begleitwebsite.
 > Das Code-Repository [Der-Korridor](https://github.com/MelanieM2/Der-Korridor) ist privat, solange die Arbeit läuft; eine Veröffentlichung ist geplant.
 
